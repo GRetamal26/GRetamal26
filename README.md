@@ -2,7 +2,7 @@
   Gastón Retamal<br/>  
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Banner" />
+  <img alt="Demo" src="./Images/Banner.png" />
 </div>
 
 <br/>
