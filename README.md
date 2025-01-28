@@ -24,14 +24,14 @@ I have good understanding on SQL Querys, basic knowledge on Quality Assurement a
 
 ## Competences
 
-<img alt="Static Badge" src="https://img.shields.io/badge/angularjs-red?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=black"> &nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/angularjs-red?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-red?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&labelColor=black">
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-red?style=for-the-badge&logo=dotnet&logoSize=auto&labelColor=black">
-<br/>
+
 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black">
-<br/>
+
 <img alt="Static Badge" src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=black">
 
 
