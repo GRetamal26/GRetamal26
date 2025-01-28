@@ -2,7 +2,7 @@
   Gastón Retamal<br/>  
 </h2>
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="./Images/Banner" />
 </div>
 
 <br/>
@@ -17,12 +17,12 @@
 -->
 </center>
 
-## Sobre mi
+## About me
 
-Me encuentro en proceso de finalizar mi tecnicatura en programación, por lo que estoy en busqueda de una instancia de aprendizaje y puesta en practica de mis habilidades. 
-Tengo buen manejo de consultas SQL, tengo conocimientos sobre conceptos base de Quality Assurement y estoy más que dispuesto a aprender nuevos lenguajes.
+Im close to finish my studies to get a programming degree, so im in process to find new experiences to test and improve my skills. 
+I have good understanding on SQL Querys, basic knowledge on Quality Assurement and Im more than eager to learn new languages and new skills.
 
-## Competencias
+## Competences
 
 - AngularJS
 - Java
@@ -34,7 +34,8 @@ Tengo buen manejo de consultas SQL, tengo conocimientos sobre conceptos base de 
 
 ## CV Completo
 
-[Drive](https://drive.google.com/file/d/19iDlkg2djLKqa_K_OLTrhkcWOA5FKmID/view?usp=sharing)
+[Español](https://drive.google.com/file/d/19iDlkg2djLKqa_K_OLTrhkcWOA5FKmID/view?usp=sharing)
+[English](https://drive.google.com/file/d/19iDlkg2djLKqa_K_OLTrhkcWOA5FKmID/view?usp=sharing)
 
 
 ### Credit  
