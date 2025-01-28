@@ -40,4 +40,6 @@ I have good understanding on SQL Querys, basic knowledge on Quality Assurement a
 
 
 ### Credit  
-[Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
+[Template](https://github.com/soumyajit4419/Portfolio)
+<br/>
+[Banner](https://banner.godori.dev/)
