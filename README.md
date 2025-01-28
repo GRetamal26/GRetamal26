@@ -32,7 +32,7 @@ I have good understanding on SQL Querys, basic knowledge on Quality Assurement a
 - SQL
 - HTML
 
-## CV Completo
+## Resume
 
 [Español](https://drive.google.com/file/d/19iDlkg2djLKqa_K_OLTrhkcWOA5FKmID/view?usp=sharing)
 <br/>
