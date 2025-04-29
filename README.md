@@ -36,7 +36,7 @@ I have good understanding on SQL Querys, basic knowledge on Quality Assurement a
 
 [Español](https://drive.google.com/file/d/19iDlkg2djLKqa_K_OLTrhkcWOA5FKmID/view?usp=sharing)
 <br/>
-[English](https://drive.google.com/file/d/19iDlkg2djLKqa_K_OLTrhkcWOA5FKmID/view?usp=sharing)
+[English](https://drive.google.com/file/d/12qLyiYwDbtCKUpu6X_VkedMxTmsFyguw/view?usp=sharing)
 
 
 ### Credit  
